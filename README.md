@@ -82,7 +82,7 @@ The dashboard follows a data storytelling approach, where users can quickly unde
   - Consistent color theme  
   - Proper chart selection (bar for comparison, line for trends)  
 
-  👉 Bar charts are used for comparison and line charts for trends as recommended in best practices :contentReference[oaicite:1]{index=1}  
+  👉 Bar charts are used for comparison and line charts for trends as recommended in best practices  
 
 
 📂 Dataset Includes
